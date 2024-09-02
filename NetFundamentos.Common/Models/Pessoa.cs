@@ -8,7 +8,7 @@ namespace NetFundamentos.Common.Models
 {
     public class Pessoa
     {
-        public string? Name { get; set; }
+        public string Name { get; set; }
         public int Idade { get; set; }
 
         public void Apresentar()
