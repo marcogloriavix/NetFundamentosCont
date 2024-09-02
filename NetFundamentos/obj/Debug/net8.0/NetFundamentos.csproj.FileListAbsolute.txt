@@ -1,0 +1,74 @@
+F:\A_Arquivos 2020_nova temporada\A_Cursos TI\NetFundamentos\NetFundamentos\obj\Debug\net8.0\NetFundamentos.csproj.AssemblyReference.cache
+F:\A_Arquivos 2020_nova temporada\A_Cursos TI\NetFundamentos\NetFundamentos\obj\Debug\net8.0\NetFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+F:\A_Arquivos 2020_nova temporada\A_Cursos TI\NetFundamentos\NetFundamentos\obj\Debug\net8.0\NetFundamentos.AssemblyInfoInputs.cache
+F:\A_Arquivos 2020_nova temporada\A_Cursos TI\NetFundamentos\NetFundamentos\obj\Debug\net8.0\NetFundamentos.AssemblyInfo.cs
+F:\A_Arquivos 2020_nova temporada\A_Cursos TI\NetFundamentos\NetFundamentos\obj\Debug\net8.0\NetFundamentos.csproj.CoreCompileInputs.cache
+F:\A_Arquivos 2020_nova temporada\A_Cursos TI\NetFundamentos\NetFundamentos\bin\Debug\net8.0\NetFundamentos.exe
+F:\A_Arquivos 2020_nova temporada\A_Cursos TI\NetFundamentos\NetFundamentos\bin\Debug\net8.0\NetFundamentos.deps.json
+F:\A_Arquivos 2020_nova temporada\A_Cursos TI\NetFundamentos\NetFundamentos\bin\Debug\net8.0\NetFundamentos.runtimeconfig.json
+F:\A_Arquivos 2020_nova temporada\A_Cursos TI\NetFundamentos\NetFundamentos\bin\Debug\net8.0\NetFundamentos.dll
+F:\A_Arquivos 2020_nova temporada\A_Cursos TI\NetFundamentos\NetFundamentos\bin\Debug\net8.0\NetFundamentos.pdb
+F:\A_Arquivos 2020_nova temporada\A_Cursos TI\NetFundamentos\NetFundamentos\bin\Debug\net8.0\NetFundamentos.Common.dll
+F:\A_Arquivos 2020_nova temporada\A_Cursos TI\NetFundamentos\NetFundamentos\bin\Debug\net8.0\NetFundamentos.Common.pdb
+F:\A_Arquivos 2020_nova temporada\A_Cursos TI\NetFundamentos\NetFundamentos\obj\Debug\net8.0\NetFunda.EE8CE731.Up2Date
+F:\A_Arquivos 2020_nova temporada\A_Cursos TI\NetFundamentos\NetFundamentos\obj\Debug\net8.0\NetFundamentos.dll
+F:\A_Arquivos 2020_nova temporada\A_Cursos TI\NetFundamentos\NetFundamentos\obj\Debug\net8.0\refint\NetFundamentos.dll
+F:\A_Arquivos 2020_nova temporada\A_Cursos TI\NetFundamentos\NetFundamentos\obj\Debug\net8.0\NetFundamentos.pdb
+F:\A_Arquivos 2020_nova temporada\A_Cursos TI\NetFundamentos\NetFundamentos\obj\Debug\net8.0\NetFundamentos.genruntimeconfig.cache
+F:\A_Arquivos 2020_nova temporada\A_Cursos TI\NetFundamentos\NetFundamentos\obj\Debug\net8.0\ref\NetFundamentos.dll
+c:\Users\ander\Desktop\texte\tex\NetFundamentos\NetFundamentos\bin\Debug\net8.0\NetFundamentos.exe
+c:\Users\ander\Desktop\texte\tex\NetFundamentos\NetFundamentos\bin\Debug\net8.0\NetFundamentos.deps.json
+c:\Users\ander\Desktop\texte\tex\NetFundamentos\NetFundamentos\bin\Debug\net8.0\NetFundamentos.runtimeconfig.json
+c:\Users\ander\Desktop\texte\tex\NetFundamentos\NetFundamentos\bin\Debug\net8.0\NetFundamentos.dll
+c:\Users\ander\Desktop\texte\tex\NetFundamentos\NetFundamentos\bin\Debug\net8.0\NetFundamentos.pdb
+c:\Users\ander\Desktop\texte\tex\NetFundamentos\NetFundamentos\bin\Debug\net8.0\NetFundamentos.Common.dll
+c:\Users\ander\Desktop\texte\tex\NetFundamentos\NetFundamentos\bin\Debug\net8.0\NetFundamentos.Common.pdb
+c:\Users\ander\Desktop\texte\tex\NetFundamentos\NetFundamentos\obj\Debug\net8.0\NetFundamentos.csproj.AssemblyReference.cache
+c:\Users\ander\Desktop\texte\tex\NetFundamentos\NetFundamentos\obj\Debug\net8.0\NetFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ander\Desktop\texte\tex\NetFundamentos\NetFundamentos\obj\Debug\net8.0\NetFundamentos.AssemblyInfoInputs.cache
+c:\Users\ander\Desktop\texte\tex\NetFundamentos\NetFundamentos\obj\Debug\net8.0\NetFundamentos.AssemblyInfo.cs
+c:\Users\ander\Desktop\texte\tex\NetFundamentos\NetFundamentos\obj\Debug\net8.0\NetFundamentos.csproj.CoreCompileInputs.cache
+c:\Users\ander\Desktop\texte\tex\NetFundamentos\NetFundamentos\obj\Debug\net8.0\NetFundamentos.sourcelink.json
+c:\Users\ander\Desktop\texte\tex\NetFundamentos\NetFundamentos\obj\Debug\net8.0\NetFunda.EE8CE731.Up2Date
+c:\Users\ander\Desktop\texte\tex\NetFundamentos\NetFundamentos\obj\Debug\net8.0\NetFundamentos.dll
+c:\Users\ander\Desktop\texte\tex\NetFundamentos\NetFundamentos\obj\Debug\net8.0\refint\NetFundamentos.dll
+c:\Users\ander\Desktop\texte\tex\NetFundamentos\NetFundamentos\obj\Debug\net8.0\NetFundamentos.pdb
+c:\Users\ander\Desktop\texte\tex\NetFundamentos\NetFundamentos\obj\Debug\net8.0\NetFundamentos.genruntimeconfig.cache
+c:\Users\ander\Desktop\texte\tex\NetFundamentos\NetFundamentos\obj\Debug\net8.0\ref\NetFundamentos.dll
+C:\Users\usuario\Desktop\NetFundamentos\NetFundamentos\NetFundamentos\bin\Debug\net8.0\NetFundamentos.exe
+C:\Users\usuario\Desktop\NetFundamentos\NetFundamentos\NetFundamentos\bin\Debug\net8.0\NetFundamentos.deps.json
+C:\Users\usuario\Desktop\NetFundamentos\NetFundamentos\NetFundamentos\bin\Debug\net8.0\NetFundamentos.runtimeconfig.json
+C:\Users\usuario\Desktop\NetFundamentos\NetFundamentos\NetFundamentos\bin\Debug\net8.0\NetFundamentos.dll
+C:\Users\usuario\Desktop\NetFundamentos\NetFundamentos\NetFundamentos\bin\Debug\net8.0\NetFundamentos.pdb
+C:\Users\usuario\Desktop\NetFundamentos\NetFundamentos\NetFundamentos\bin\Debug\net8.0\NetFundamentos.Common.dll
+C:\Users\usuario\Desktop\NetFundamentos\NetFundamentos\NetFundamentos\bin\Debug\net8.0\NetFundamentos.Common.pdb
+C:\Users\usuario\Desktop\NetFundamentos\NetFundamentos\NetFundamentos\obj\Debug\net8.0\NetFundamentos.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\NetFundamentos\NetFundamentos\NetFundamentos\obj\Debug\net8.0\NetFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\NetFundamentos\NetFundamentos\NetFundamentos\obj\Debug\net8.0\NetFundamentos.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\NetFundamentos\NetFundamentos\NetFundamentos\obj\Debug\net8.0\NetFundamentos.AssemblyInfo.cs
+C:\Users\usuario\Desktop\NetFundamentos\NetFundamentos\NetFundamentos\obj\Debug\net8.0\NetFundamentos.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\NetFundamentos\NetFundamentos\NetFundamentos\obj\Debug\net8.0\NetFundamentos.sourcelink.json
+C:\Users\usuario\Desktop\NetFundamentos\NetFundamentos\NetFundamentos\obj\Debug\net8.0\NetFunda.EE8CE731.Up2Date
+C:\Users\usuario\Desktop\NetFundamentos\NetFundamentos\NetFundamentos\obj\Debug\net8.0\NetFundamentos.dll
+C:\Users\usuario\Desktop\NetFundamentos\NetFundamentos\NetFundamentos\obj\Debug\net8.0\refint\NetFundamentos.dll
+C:\Users\usuario\Desktop\NetFundamentos\NetFundamentos\NetFundamentos\obj\Debug\net8.0\NetFundamentos.pdb
+C:\Users\usuario\Desktop\NetFundamentos\NetFundamentos\NetFundamentos\obj\Debug\net8.0\NetFundamentos.genruntimeconfig.cache
+C:\Users\usuario\Desktop\NetFundamentos\NetFundamentos\NetFundamentos\obj\Debug\net8.0\ref\NetFundamentos.dll
+F:\A_Arquivos 2020_nova temporada\A_Cursos TI\DIOTrilhaNet\NetFundamentosCont\NetFundamentos\bin\Debug\net8.0\NetFundamentos.exe
+F:\A_Arquivos 2020_nova temporada\A_Cursos TI\DIOTrilhaNet\NetFundamentosCont\NetFundamentos\bin\Debug\net8.0\NetFundamentos.deps.json
+F:\A_Arquivos 2020_nova temporada\A_Cursos TI\DIOTrilhaNet\NetFundamentosCont\NetFundamentos\bin\Debug\net8.0\NetFundamentos.runtimeconfig.json
+F:\A_Arquivos 2020_nova temporada\A_Cursos TI\DIOTrilhaNet\NetFundamentosCont\NetFundamentos\bin\Debug\net8.0\NetFundamentos.dll
+F:\A_Arquivos 2020_nova temporada\A_Cursos TI\DIOTrilhaNet\NetFundamentosCont\NetFundamentos\bin\Debug\net8.0\NetFundamentos.pdb
+F:\A_Arquivos 2020_nova temporada\A_Cursos TI\DIOTrilhaNet\NetFundamentosCont\NetFundamentos\bin\Debug\net8.0\NetFundamentos.Common.dll
+F:\A_Arquivos 2020_nova temporada\A_Cursos TI\DIOTrilhaNet\NetFundamentosCont\NetFundamentos\bin\Debug\net8.0\NetFundamentos.Common.pdb
+F:\A_Arquivos 2020_nova temporada\A_Cursos TI\DIOTrilhaNet\NetFundamentosCont\NetFundamentos\obj\Debug\net8.0\NetFundamentos.csproj.AssemblyReference.cache
+F:\A_Arquivos 2020_nova temporada\A_Cursos TI\DIOTrilhaNet\NetFundamentosCont\NetFundamentos\obj\Debug\net8.0\NetFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+F:\A_Arquivos 2020_nova temporada\A_Cursos TI\DIOTrilhaNet\NetFundamentosCont\NetFundamentos\obj\Debug\net8.0\NetFundamentos.AssemblyInfoInputs.cache
+F:\A_Arquivos 2020_nova temporada\A_Cursos TI\DIOTrilhaNet\NetFundamentosCont\NetFundamentos\obj\Debug\net8.0\NetFundamentos.AssemblyInfo.cs
+F:\A_Arquivos 2020_nova temporada\A_Cursos TI\DIOTrilhaNet\NetFundamentosCont\NetFundamentos\obj\Debug\net8.0\NetFundamentos.csproj.CoreCompileInputs.cache
+F:\A_Arquivos 2020_nova temporada\A_Cursos TI\DIOTrilhaNet\NetFundamentosCont\NetFundamentos\obj\Debug\net8.0\NetFunda.EE8CE731.Up2Date
+F:\A_Arquivos 2020_nova temporada\A_Cursos TI\DIOTrilhaNet\NetFundamentosCont\NetFundamentos\obj\Debug\net8.0\NetFundamentos.dll
+F:\A_Arquivos 2020_nova temporada\A_Cursos TI\DIOTrilhaNet\NetFundamentosCont\NetFundamentos\obj\Debug\net8.0\refint\NetFundamentos.dll
+F:\A_Arquivos 2020_nova temporada\A_Cursos TI\DIOTrilhaNet\NetFundamentosCont\NetFundamentos\obj\Debug\net8.0\NetFundamentos.pdb
+F:\A_Arquivos 2020_nova temporada\A_Cursos TI\DIOTrilhaNet\NetFundamentosCont\NetFundamentos\obj\Debug\net8.0\NetFundamentos.genruntimeconfig.cache
+F:\A_Arquivos 2020_nova temporada\A_Cursos TI\DIOTrilhaNet\NetFundamentosCont\NetFundamentos\obj\Debug\net8.0\ref\NetFundamentos.dll
