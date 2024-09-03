@@ -72,3 +72,4 @@ F:\A_Arquivos 2020_nova temporada\A_Cursos TI\DIOTrilhaNet\NetFundamentosCont\Ne
 F:\A_Arquivos 2020_nova temporada\A_Cursos TI\DIOTrilhaNet\NetFundamentosCont\NetFundamentos\obj\Debug\net8.0\NetFundamentos.pdb
 F:\A_Arquivos 2020_nova temporada\A_Cursos TI\DIOTrilhaNet\NetFundamentosCont\NetFundamentos\obj\Debug\net8.0\NetFundamentos.genruntimeconfig.cache
 F:\A_Arquivos 2020_nova temporada\A_Cursos TI\DIOTrilhaNet\NetFundamentosCont\NetFundamentos\obj\Debug\net8.0\ref\NetFundamentos.dll
+F:\A_Arquivos 2020_nova temporada\A_Cursos TI\DIOTrilhaNet\NetFundamentosCont\NetFundamentos\obj\Debug\net8.0\NetFundamentos.sourcelink.json

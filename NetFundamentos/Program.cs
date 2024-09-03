@@ -1,21 +1,43 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using NetFundamentos.Common.Models;
 
+//******************************** */
+//Construtores
+//O construtor tem como finalidade, 
+//atribuir valores para um objeto no momento de sua criação
+
+
 //********************************************* */
-// Propriedades
+// Propriedades  - sempre que tenha GEt e SEt
 // membro que oferece mecanismo flexível para ler,
 // gravar ou calcular o valor de um campo particular.
 
+PessoaSeg p1 = new PessoaSeg("Marco", "Gloria");
+//p1.Nome = "Marco";
+p1.idade = 20;
+//p1.Sobrenome = "Gloria";
 
+PessoaSeg p2 = new PessoaSeg(nome:"egfegegr", sobrenome:"iwepf");
+//p2.Nome = "RGREG";
+p2.idade = 25;
+//p2.Sobrenome = "ERGGhkhd";
 
+Curso cursoDeIngles = new Curso();
+cursoDeIngles.Nome = "Inglês";
+cursoDeIngles.Alunos = new List<PessoaSeg>();
 
+cursoDeIngles.AdicionarAluno(p1);
+cursoDeIngles.AdicionarAluno(p2);
+cursoDeIngles.ListarAlunos();
 
+//------------------------------------------------
+//------------------------------------------------
+// PessoaSeg p1 = new PessoaSeg();
 
-
-
-
-
-
+// p1.Nome = "Marco";
+// p1.idade = 20;
+// p1.Sobrenome = "Gloria";
+// p1.Apresentar();
 
 
 //************************************************************

@@ -44,3 +44,4 @@ F:\A_Arquivos 2020_nova temporada\A_Cursos TI\DIOTrilhaNet\NetFundamentosCont\Ne
 F:\A_Arquivos 2020_nova temporada\A_Cursos TI\DIOTrilhaNet\NetFundamentosCont\NetFundamentos.Common\obj\Debug\net8.0\refint\NetFundamentos.Common.dll
 F:\A_Arquivos 2020_nova temporada\A_Cursos TI\DIOTrilhaNet\NetFundamentosCont\NetFundamentos.Common\obj\Debug\net8.0\NetFundamentos.Common.pdb
 F:\A_Arquivos 2020_nova temporada\A_Cursos TI\DIOTrilhaNet\NetFundamentosCont\NetFundamentos.Common\obj\Debug\net8.0\ref\NetFundamentos.Common.dll
+F:\A_Arquivos 2020_nova temporada\A_Cursos TI\DIOTrilhaNet\NetFundamentosCont\NetFundamentos.Common\obj\Debug\net8.0\NetFundamentos.Common.sourcelink.json
